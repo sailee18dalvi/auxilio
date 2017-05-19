@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "171303352013",
+    "firebase_url": "https://auxilio-a1a20.firebaseio.com",
+    "project_id": "auxilio-a1a20",
+    "storage_bucket": "auxilio-a1a20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171303352013:android:2943f18822ec349b",
+        "android_client_info": {
+          "package_name": "com.nabeel.auxilio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171303352013-41rqaumb968a7fv7ul4pi8n0jliihvv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nabeel.auxilio",
+            "certificate_hash": "ba9adb495e23ee7d1224153698d42b3726417237"
+          }
+        },
+        {
+          "client_id": "171303352013-tonc8vthmmos8vr7pisqjm3j90tco21t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wSGSkvlYjbBcIabmJNDsJ_0Xgy0UstI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171303352013-tonc8vthmmos8vr7pisqjm3j90tco21t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

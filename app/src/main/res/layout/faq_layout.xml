@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="800dp"
+    android:background="@color/cardview_dark_background"
+    android:backgroundTint="@color/cardview_light_background"
+    android:backgroundTintMode="src_over">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="800dp">
+
+    <Button
+        android:text="What is Auxilio?"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="26dp"
+        android:id="@+id/button9"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:textAllCaps="false"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button9"
+        android:layout_alignStart="@+id/button9"
+        android:layout_marginTop="19dp"
+        android:id="@+id/textView12"
+        android:text="Auxilio is a platform for collaboration and interaction between students, where one can help the other in academics, providing a cheaper substitute for tuitions and educational classes. " />
+
+    <Button
+        android:text="Who should use this App?"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView12"
+        android:layout_alignStart="@+id/textView12"
+        android:layout_marginTop="20dp"
+        android:id="@+id/button10"
+        android:textAllCaps="false"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:textAlignment="center" />
+
+    <TextView
+        android:text="An individual who needs help in a particular subject can use this app to search for a tutor who can help him/her."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button10"
+        android:layout_alignStart="@+id/button10"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="24dp"
+        android:id="@+id/textView13" />
+
+    <Button
+        android:text="How to use this App?"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView13"
+        android:layout_alignStart="@+id/button10"
+        android:layout_marginTop="29dp"
+        android:id="@+id/button11"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:textAllCaps="false"
+        android:textAlignment="center" />
+
+    <TextView
+        android:text="The individual can filter the search by the subject he/she wants to help, area preferable, credits earned by tutor, fees offered by the tutor. The individual can also sort his/her search. The individual can go to any tutor’s profile and check tutor’s qualifications and history. He can contact the tutor and ask him if he/she can help."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button11"
+        android:layout_alignStart="@+id/button11"
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView14" />
+    </RelativeLayout>
+</ScrollView>

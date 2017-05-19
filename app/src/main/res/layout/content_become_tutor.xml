@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_become_tutor"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.nabeel.auxilio.BecomeTutor"
+    tools:showIn="@layout/app_bar_become_tutor">
+
+    <RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="800dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:id="@+id/fillText"
+            android:text="Fill the details properly!"/>
+
+        <ImageButton
+            android:id="@+id/dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_below="@+id/fillText"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:background="@android:color/transparent"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/ic_person_black_24dp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:id="@+id/fName"
+            android:hint="First Name"
+            android:layout_below="@+id/dp"
+            android:layout_marginTop="5dp"
+            android:layout_height="45dp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/mName"
+            android:hint="Middle Name"
+            android:layout_below="@+id/fName"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/lName"
+            android:hint="Last Name"
+            android:layout_below="@+id/mName"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="textEmailAddress"
+            android:id="@+id/emailid"
+            android:hint="Middle Name"
+            android:layout_below="@+id/lName"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="phone"
+            android:id="@+id/contact"
+            android:hint="Mobile Number"
+            android:layout_below="@+id/emailid"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="date"
+            android:id="@+id/bday"
+            android:hint="DD/MM/YYYY"
+            android:layout_below="@+id/contact"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="textPostalAddress"
+            android:id="@+id/addr"
+            android:hint="Address"
+            android:layout_below="@+id/bday"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/school_name"
+            android:hint="School Name"
+            android:layout_below="@+id/addr"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/school_board"
+            android:hint="School Board"
+            android:layout_below="@+id/school_name"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:id="@+id/school_percent"
+            android:hint="10th %"
+            android:layout_below="@+id/school_board"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/jcollege_name"
+            android:hint="Junior College/Diploma College Name"
+            android:layout_below="@+id/school_percent"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:id="@+id/jcollege_percent"
+            android:hint="12th%/Diploma"
+            android:layout_below="@+id/jcollege_name"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/ecollege_name"
+            android:hint="Engineering College Name"
+            android:layout_below="@+id/jcollege_percent"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/univ"
+            android:hint="University Name"
+            android:layout_below="@+id/ecollege_name"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/branch"
+            android:hint="Branch"
+            android:layout_below="@+id/univ"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/currentyr"
+            android:hint="FE/SE/TE/BE"
+            android:layout_below="@+id/branch"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:id="@+id/sem1"
+            android:hint="Sem 1 Pointer"
+            android:layout_below="@+id/currentyr"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:id="@+id/sem2"
+            android:hint="Sem 2 Pointer"
+            android:layout_below="@+id/sem1"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:id="@+id/sem3"
+            android:hint="Sem 3 Pointer"
+            android:layout_below="@+id/sem2"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:id="@+id/sem4"
+            android:hint="Sem 4 Pointer"
+            android:layout_below="@+id/sem3"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:id="@+id/sem5"
+            android:hint="Sem 5 Pointer"
+            android:layout_below="@+id/sem4"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:id="@+id/sem6"
+            android:hint="Sem 6 Pointer"
+            android:layout_below="@+id/sem5"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:id="@+id/sem7"
+            android:hint="Sem 7 Pointer"
+            android:layout_below="@+id/sem6"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:id="@+id/sem8"
+            android:hint="Sem 8 Pointer"
+            android:layout_below="@+id/sem7"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:id="@+id/avgpo"
+            android:hint="Average Pointer"
+            android:layout_below="@+id/sem8"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="number"
+            android:id="@+id/avgp"
+            android:hint="Average Percentage"
+            android:layout_below="@+id/avgpo"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/subject1"
+            android:hint="Prefered Subject 1"
+            android:layout_below="@+id/avgp"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/subject2"
+            android:hint="Prefered Subject 2"
+            android:layout_below="@+id/subject1"
+            android:layout_marginTop="5dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/subject3"
+            android:hint="Prefered Subject 3"
+            android:layout_below="@+id/subject2"
+            android:layout_marginTop="5dp"/>
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="45dp"
+            android:id="@+id/submit"
+            android:layout_below="@+id/subject3"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            android:text="Submit"/>
+
+    </RelativeLayout>
+</ScrollView>
