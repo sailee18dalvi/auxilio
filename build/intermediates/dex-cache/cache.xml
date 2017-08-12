@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.2.0_e696eafb87ad9720fa21fc08f048ee67211cad9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.2.0_e94acbd9a67402b2c534576c92c0af1ff4769a73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.5.2_14f0838df79f7aa931cb8ab114b00c08202cf268.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.0_4783336d60aa900a342bb59205dbe8c21c3db6ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_51a6b1902ae61916b76620ca0e89bd024b0849b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nabeel\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_2faa20577b93a44a694104f4b6bce3da4a954985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.0_637a0691f37aff548c2e57278c32f5ffaaefb200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_3afee08f82d53e22e0f157f6c2e57743028d536d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_1932771fbb0c8c0aead378699731cc31bb0d61f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_19fa5b8058d6451c66c2ed1cf69bea7f6290e974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_ce2cb9cfd14c1a4f1a46c58b15c2f0cd5f8ac83e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_dfd1c4b83c1312feefbc7be7a10dfc41cb7d54eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_55a1f8834245a08a166910f768525bd9e422c361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.2.0_e37b51c2969423ece735934b842e663379f3d66f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.2.0_b4dd15e7335f38e890090a74e83c49a8a7b993ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\picasso-2.3.2_e3174bc11431ece9144344f723fb0cc6bc84425e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_fb044b74a52dc8217d59b24b4eb9a8ba1f36953b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.0_ceac239507da7182d7187dae718f07b727b5f167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\glide-3.7.0_44ff5767b04d6203b727be95bb5b229f8b0e832b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.0_7ea4265e5725aaba7427ecedae06ad4b787b3c1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.2.0_6f8ffe2b7d8a741688b894ca6c46ef1ff56422ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.5.2_74d2fba0d790a4a855db7ef71d912a9047d49d80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_c93b5319dca27e227975e3ee11ebe523adddc08a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_c94d3bcfcbc6ce6440d05d0fa58bf28ddcf884c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.2.0_8e469ed848dbc554c2231e073debb3d6c24520d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\net.gotev\uploadservice\2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="372295458f730b0715898d4b477a85aa1a777504">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\net.gotev-uploadservice-2.1_296236820575bd94c97d3d834267d9df6b497508.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_baf278d1344fe1859143f43194c749e5754aba28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.2.0_33801f3eb8172d47e971f7b4396aade7c7594da3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_796811ee3089fedaddd5fe4ee1aa92568c2123da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.2.0_256db8533b6dcaca8c801893e7578c98e5f395bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_e4b864ca8c092914d6fee72935da371712e72e59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_cc6e9fef08faadfe40cc8bedfabaf17b0a1f115f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_dac4cd93106ed9aa8ecf130a0e9f922d1a2966bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_064418e08939900de8ea388a8e52493e0ff5ecc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_a3ae3812971c3fd4dfc17b5404436164f1db8796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_50ec436e744e39e56eccc67584952da784332985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_ee5fa5d8f4228227f2542808d4ea9a20270d2ea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_1d53a8291f22509835fdf0ea950f1bde1ee4f032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Users\Nabeel\AndroidStudioProjects\Auxilio\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.0_10d1a6c4f954dcd51ce1c07970784620976635a3.jar" />
+    </item>
+
+</items>
